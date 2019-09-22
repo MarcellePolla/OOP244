@@ -3,7 +3,6 @@
 // File Passenger.cpp
 // Version 1.0
 // Date June 6th
-// Author Marcelle Polla
 // Description
 // This is the implementation file for the Passenger module.
 // It contains the definitions for the Passenger struct.
