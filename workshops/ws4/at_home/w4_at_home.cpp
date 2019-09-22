@@ -1,6 +1,5 @@
 // Workshop 4 - Constructors - Test Main
 // w4_at_home.cpp
-// Marcelle Polla
 // 2019/06/06
 
 #include <iostream>
