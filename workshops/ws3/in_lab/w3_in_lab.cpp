@@ -3,7 +3,6 @@
 // w3_at_home.cpp
 // Version 3.0
 // 2019/05/30
-// MarcellePolla
 // Description
 // This workshop demonstrates classes in C++ and 
 // how member variables are defined privately, but 
