@@ -3,7 +3,6 @@
 // CRA_Account.h
 // Version 3.0
 // 2019/05/30
-// Marcelle Polla
 // Description
 // This is the header file for the CRA_Account module.
 // It contains the class definition.
