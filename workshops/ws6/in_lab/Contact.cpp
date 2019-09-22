@@ -2,7 +2,6 @@
 // OOP244 Workshop 6: Class with a resource
 // File Contact.cpp
 // Date June 15th
-// Author Marcelle Polla
 // Description
 // This is the implementation file for the Contact module.
 // It contains the methods for the Contact class.
