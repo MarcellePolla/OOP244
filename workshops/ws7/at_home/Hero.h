@@ -2,7 +2,6 @@
 // OOP244 Workshop 7: Derived Classes
 // File Hero.h
 // Date July 17th
-// Author Marcelle Polla
 // Description
 // This is the header file for the Hero module.
 // It contains the prototypes for the Hero class.
