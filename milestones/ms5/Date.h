@@ -2,7 +2,6 @@
 // OOP244 Aid Management Application : Milestone 5
 // File Date.h
 // Date Aug 3rd
-// Author Marcelle Polla
 // Description
 // This is the header file for the Date module.
 // It contains the prototypes for the Date class.
