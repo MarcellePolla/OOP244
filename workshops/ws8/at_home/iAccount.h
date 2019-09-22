@@ -2,7 +2,6 @@
 // OOP244 Workshop 8: Virtual Functions
 // File iAccount.h
 // Date July 25th
-// Author Marcelle Polla
 // Description
 // This is the abstract base class for the Account hierarchy.
 // It contains the pure virtual member functions for the 
