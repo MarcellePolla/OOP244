@@ -2,7 +2,6 @@
 // OOP244 Workshop 7: Derived Classes
 // File SuperHero.h
 // Date July 17th
-// Author Marcelle Polla
 // Description
 // This is the header file for the SuperHero module.
 // It contains the prototypes for the SuperHero class.
