@@ -2,7 +2,6 @@
 // OOP244 Aid Management Application : Milestone 5
 // File iGood.h
 // Date Aug 3rd
-// Author Marcelle Polla
 // Description
 // This is the header file for the iAccount class.
 // It contains the prototypes for the iAccount class.
