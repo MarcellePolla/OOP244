@@ -2,7 +2,6 @@
 // OOP244 Workshop 8: Virtual Functions
 // File ChequingAccount.cpp
 // Date July 25th
-// Author Marcelle Polla
 // Description
 // This is the implementation file for the ChequingAccount module.
 // It contains the methods for the ChequingAccount class.
