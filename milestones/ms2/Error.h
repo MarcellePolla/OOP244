@@ -2,7 +2,6 @@
 // OOP244 Aid Management Application : Milestone 2
 // File Error.h
 // Date July 15th
-// Author Marcelle Polla
 // Description
 // This is the header file for the Error module.
 // It contains the prototypes for the Error class.
