@@ -2,7 +2,6 @@
 // OOP244 Aid Management Application : Milestone 5
 // File Perishable.cpp
 // Date Aug 3rd
-// Author Marcelle Polla
 // Description
 // This is the implementation file for the Perishable module.
 // It contains the methods for the Perishable class.
