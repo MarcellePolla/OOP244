@@ -3,7 +3,6 @@
 // File Contact.h
 // Version 1.0
 // Date July 13th
-// Author Marcelle Polla
 // Description
 // This is the header file for the Contact module.
 // It contains the prototypes for the Contact class.
