@@ -2,7 +2,6 @@
 // OOP244 Aid Management Application : Milestone 3
 // File Good.h
 // Date July 20th
-// Author Marcelle Polla
 // Description
 // This is the header file for the Good module.
 // It contains the prototypes for the Good class.
