@@ -2,7 +2,6 @@
 // OOP244 Workshop 6: Class with a resource
 // File Contact.h
 // Date June 15th
-// Author Marcelle Polla
 // Description
 // This is the header file for the Contact module.
 // It contains the prototypes for the Contact class.
