@@ -3,7 +3,6 @@
 // File w2_at_home.cpp
 // Version 2.0
 // Date May 26th
-// Author Marcelle Polla
 // Description
 // This is the main for the Kingdom project. 
 // It requests and displays information about the kingdoms.
