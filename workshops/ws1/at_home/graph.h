@@ -1,16 +1,3 @@
-/***********************************************************************
-// OOP244 Workshop 1: Compiling modular source code
-// File	graph.h
-// Version 1.0
-// Date	2019/05/11
-// Author	Marcelle Polla
-// Section B
-// Student Number 126654185
-// email mpolla1@myseneca.ca
-// Description
-// This is the header file for graph
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 #ifndef SICT_GRAPH_H
 #define SICT_GRAPH_H
 
