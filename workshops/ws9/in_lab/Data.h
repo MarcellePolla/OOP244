@@ -2,7 +2,6 @@
 // OOP244 Workshop 9: Function Templates
 // File Data.h
 // Date Aug 1st
-// Author Marcelle Polla
 // Description
 // This is the header file for the Data module.
 // It contains the prototypes and templates for the Data class.
