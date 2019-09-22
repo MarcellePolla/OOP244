@@ -2,7 +2,6 @@
 // OOP244 Workshop 7: Derived Classes
 // File Hero.cpp
 // Date July 15th
-// Author Marcelle Polla
 // Description
 // This is the implementation file for the Hero module.
 // It contains the methods for the Hero class.
