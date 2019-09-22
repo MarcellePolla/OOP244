@@ -2,7 +2,6 @@
 // OOP244 Aid Management Application : Milestone 3
 // File Good.cpp
 // Date July 20th
-// Author Marcelle Polla
 // Description
 // This is the implementation file for the Good module.
 // It contains the methods for the Good class.
