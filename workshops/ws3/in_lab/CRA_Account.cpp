@@ -3,7 +3,6 @@
 // CRA_Account.cpp
 // Version 3.0
 // 2019/05/30
-// Marcelle Polla
 // Description
 // This is the implementation file for the CRA_Account module.
 // It validades SIN numbers.
