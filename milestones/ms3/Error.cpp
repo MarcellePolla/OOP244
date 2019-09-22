@@ -2,7 +2,6 @@
 // OOP244 Aid Management Application : Milestone 2
 // File Date.cpp
 // Date July 15th
-// Author Marcelle Polla
 // Description
 // This is the implementation file for the Error module.
 // It contains the methods for the Error class.
