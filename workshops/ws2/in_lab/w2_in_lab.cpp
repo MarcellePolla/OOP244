@@ -3,7 +3,6 @@
 // File w2_in_lab.cpp
 // Version 2.0
 // Date May 23rd
-// Author Marcelle Polla
 // Description
 // This program stores and displays the names of Kingdoms 
 // and total population.
