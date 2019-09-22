@@ -1,16 +1,3 @@
-/***********************************************************************
-// OOP244 Workshop 1: Compiling modular source code
-// File	seneGraph.cpp
-// Version 1.0
-// Date	2019/05/11
-// Author	Marcelle Polla
-// Section B
-// Student Number 126654185
-// email mpolla1@myseneca.ca
-// Description
-// This is the main for seneGraph 
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 #include <iostream>
 #include "graph.h"
 #include "tools.h"
