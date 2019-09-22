@@ -3,7 +3,6 @@
 // OOP244 Workshop 9: Function Templates
 // File Data.cpp
 // Date Aug 1st
-// Author Marcelle Polla
 // Description
 // This is the implementation file for the Data module.
 // It contains the methods for the Data class.
